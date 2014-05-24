@@ -4,12 +4,12 @@
 PyPath is a concise path tracer written in python. It is focused on readability, extensibility and learning for new comers. At around 500 lines of code it supports:
 - Path tracing
 - Materials
-..- Lambertian/Diffuse
-..- Perfect Specular Reflection
-..- Glossy Specular
+ - Lambertian/Diffuse
+ - Perfect Specular Reflection
+ - Glossy Specular
 - Simple Primitives
-..- Spheres
-..- Planes
+ - Spheres
+ - Planes
 - Stochastic sampling to help eliminate anti-aliasing
 - Image output to .ppm file
 - Non-stationary camera
